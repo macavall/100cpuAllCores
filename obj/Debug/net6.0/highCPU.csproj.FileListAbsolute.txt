@@ -1,0 +1,14 @@
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\bin\Debug\net6.0\highCPU.exe
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\bin\Debug\net6.0\highCPU.deps.json
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\bin\Debug\net6.0\highCPU.runtimeconfig.json
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\bin\Debug\net6.0\highCPU.dll
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\bin\Debug\net6.0\highCPU.pdb
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\obj\Debug\net6.0\highCPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\obj\Debug\net6.0\highCPU.AssemblyInfoInputs.cache
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\obj\Debug\net6.0\highCPU.AssemblyInfo.cs
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\obj\Debug\net6.0\highCPU.csproj.CoreCompileInputs.cache
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\obj\Debug\net6.0\highCPU.dll
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\obj\Debug\net6.0\refint\highCPU.dll
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\obj\Debug\net6.0\highCPU.pdb
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\obj\Debug\net6.0\highCPU.genruntimeconfig.cache
+C:\Users\macavall\0TeamProjects\InProcIsoCompare\IsolatedLenaTest\highCPU\obj\Debug\net6.0\ref\highCPU.dll
